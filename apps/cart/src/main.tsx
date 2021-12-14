@@ -10,4 +10,3 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-console.log('12')
