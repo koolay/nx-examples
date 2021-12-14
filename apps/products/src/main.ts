@@ -12,4 +12,4 @@ platformBrowserDynamic()
   .bootstrapModule(AppModule)
   .catch((err) => console.error(err));
 
-console.log('aa');
+console.log('aa22');
